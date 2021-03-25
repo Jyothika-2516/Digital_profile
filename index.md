@@ -2,10 +2,10 @@ THUMU JYOTHIKA
 ============
 
 -------------------     ----------------------------
- Email                      jyothika8.thumu@gmail.com
- Dob                         08-02-2001
- phone                       93xxxxxxx
- LinkedIn                    [LinkedIn](https://linkedin.com)
+ *Email                      jyothika8.thumu@gmail.com
+ *Dob                         08-02-2001
+ *phone                       93xxxxxxx
+ *LinkedIn                    [LinkedIn](https://linkedin.com)
 -------------------     ----------------------------
 
 Education

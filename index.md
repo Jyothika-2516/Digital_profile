@@ -2,10 +2,10 @@ THUMU JYOTHIKA
 ============
 
 -------------------     ----------------------------
- *Email :                      jyothika8.thumu@gmail.com
- *Dob :                         08-02-2001
- *phone :                       93xxxxxxx
- *LinkedIn :                    [LinkedIn](https://linkedin.com)
+ * Email :                      jyothika8.thumu@gmail.com
+ * Dob :                         08-02-2001
+ * phone :                       93xxxxxxx
+ * LinkedIn :                    [LinkedIn](https://linkedin.com)
 -------------------     ----------------------------
 
 Education
@@ -26,9 +26,9 @@ Technical SKills
 --------------------
 
 **Programming Languages**
-*c
-*python
-*java
+* c
+* python
+* java
 
 Extra Section, Call it Whatever You Want
 ----------------------------------------
